@@ -1,0 +1,19 @@
+SITE : https://eu.huel.com/
+
+Frontend (visible par l'utilisateur) :
+
+Interface utilisateur (UI) incluant les pages produits, le formulaire d'inscription, et les menus de navigation.
+
+Interactions visuelles avec des images, des descriptions, et des boutons de commande.
+
+Technologies : HTML, CSS, JavaScript (probablement avec des frameworks comme React ou Vue.js).
+
+Backend (en arrière-plan) :
+
+Gestion des utilisateurs (connexion, création de compte, historique des commandes).
+
+Traitement des paiements et gestion des stocks.
+
+Stockage des informations des utilisateurs, des produits, et des commandes.
+
+Technologies : Serveurs web (probablement Node.js, Python, ou Ruby on Rails), bases de données SQL ou NoSQL, et API pour le traitement des paiements (par exemple, Stripe).
